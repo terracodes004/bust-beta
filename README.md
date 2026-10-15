@@ -2,7 +2,7 @@
 
 **Limn Engine's dual-thread rendering plugin — in beta.**
 
-Bust Beta is an experimental performance layer for [Limn Engine](https://github.com/). It moves rendering work off the main thread and onto a Web Worker, then hands the finished frame back to the visible canvas for display.
+Bust Beta is an experimental performance layer for [Limn Engine](https://github.com/terracodes004/limn-engine-doc). It moves rendering work off the main thread and onto a Web Worker, then hands the finished frame back to the visible canvas for display.
 
 On devices that can keep up, the result is a higher and more stable frame rate than a single-threaded Canvas 2D loop can deliver.
 
@@ -153,25 +153,17 @@ Bust Beta is a beta. If it works on your device — or if it doesn't — open an
 
 ## License
 
-MIT (or whatever Limn uses — align this before publishing).
+MIT
 
 ---
 
 ## Links
 
-- **Limn Engine:** [link]
-- **Discord:** [link]
-- **Issues:** [GitHub Issues link]
-
----
-
-## Before You Publish — Three Placeholders to Fill
-
-**1. `[link]` placeholders.** Replace the three bracket links at the bottom with real URLs — the Limn Engine repository, the Discord invite, and the GitHub Issues page.
-
-**2. License.** If Limn is MIT, use MIT. If Limn has no license, decide one explicitly before publishing Bust Beta. A plugin without a license is a plugin nobody can legally use.
-
-**3. The "120fps on dev machine" line.** This is honest as written, but it's the weakest claim in the README. When you have a low-end device result, replace that row with the real number. Until then, "Observed on dev machine" is defensible.
+- **Limn Engine:** [github.com/terracodes004/limn-engine-doc](https://github.com/terracodes004/limn-engine-doc)
+- **Discord:** [discord.gg/kVpSmYWXr](https://discord.gg/kVpSmYWXr)
+- **Issues:** [github.com/terracodes004/limn-engine-doc/issues](https://github.com/terracodes004/limn-engine-doc/issues)
+- **Documentation:** [limn-engine-doc.vercel.app](https://limn-engine-doc.vercel.app)
+- **Arcade:** [limn-engine-doc.vercel.app/arcade](https://limn-engine-doc.vercel.app/arcade)
 
 ---
 
