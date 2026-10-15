@@ -114,6 +114,7 @@ Then, in your game file, call `upgradePerform()` before you create your Display:
 ```js
 const display = new Display();
 upgradePerform();
+display.perform();
 display.start(800, 600);
 ```
 
